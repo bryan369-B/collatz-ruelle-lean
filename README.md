@@ -1,3 +1,5 @@
+[![Lean CI](https://github.com/bryan369-B/collatz-ruelle-lean/actions/workflows/ci.yml/badge.svg)](https://github.com/bryan369-B/collatz-ruelle-lean/actions/workflows/ci.yml)
+
 # Collatz-Ruelle Lean 4 Formalization
 
 Formal verification of spectral theorems for the 2-adic Ruelle transfer operator.
@@ -20,3 +22,4 @@ lake build
 
 ## Paper
 Bautista, B. (2026). Spectral Triviality of the 2-adic Ruelle Transfer Operator for the Collatz Map.
+
